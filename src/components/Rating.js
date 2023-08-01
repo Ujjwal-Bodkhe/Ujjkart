@@ -10,7 +10,6 @@ const Rating = ({ value }) => {
             <img src={value >= 4 ? star_solid : star_regular} width="20px" height="20px" alt="Star" />
             <img src={value >= 5 ? star_solid : star_regular} width="20px" height="20px" alt="Star" />
         </div>
-    );
-}
+    );}
 
 export default Rating;
