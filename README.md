@@ -1,4 +1,4 @@
-# Ujjkart
+# Ujjkart[E-commerce]
 
 ## Technology Stack & Tools
 
